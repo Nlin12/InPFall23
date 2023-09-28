@@ -35,11 +35,11 @@ This is a great fit for my aluminum meterial. Southern Bluefin Tuna it is then!
 
 I decided to make metal foils from the side of the cans to form the shape of the tuna. Four pairs of foils comprise the body, and triangle foils are used for the tail and fins. Finally, I was planning to stick black and yellow colored cardboards to mimic the colors on its back and fins (more on that later).
 
-
+![]({{ '/assets/img/W3/s1.jpg' | relative_url }})
 
 But there was a problem: I only got 7 of these cans. In the original design just the body will cost me 8. I need to be more efficient with material usage. Through iterations I quickly found rooms of improvements: the rearmost part of body is now made from cutoffs from the part in front of it, achieved by mactching the two parts' circumfrence. Similarly, the pair of pectoral fins and the tail use the remaining triangles from the head part.
 
-
+![]({{ '/assets/img/W3/s2.jpg' | relative_url }})
 
 ### The Making Process
 
