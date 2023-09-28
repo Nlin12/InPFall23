@@ -41,7 +41,7 @@ But there was a problem: I only got 7 of these cans. In the original design just
 
 
 
-#### The Making Process
+### The Making Process
 
 ##### Cutting
 
@@ -85,7 +85,7 @@ The rest are relatively smooth sail, just sticking multiple triangles on.
 
 ##### Change of Design
 
-At this point the structure is finished, and I was going to add colors to it using these cardboards (which, are actually the exact boxes for this cans).
+At this point the structure is finished, and I was going to add colors to it using these cardboards (which, are actually the exact boxes for these cans).
 
 ![]({{ '/assets/img/W3/12.jpg' | relative_url }})
 
