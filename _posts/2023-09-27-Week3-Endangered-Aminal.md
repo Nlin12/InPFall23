@@ -11,7 +11,7 @@ Since there's a great number of endangered animals, and I do not have a specific
 
 The recycles that I collected are mainly cardboards, plastic bottles, and soda cans. Among those, I found one object to be particularly interesting:
 
-![]({{ '/assets/img/W3/01.jepg' | relative_url }})
+![]({{ '/assets/img/W3/01.jpg' | relative_url }})
 
 A soda can from Trader Joe's. Unlike other cans that have the packaging printed on them, this one uses a plastic wrap, making it very easy to peel off, and you get a can with pure metallic finish.
 
@@ -47,57 +47,57 @@ But there was a problem: I only got 7 of these cans. In the original design just
 
 Cutting off the tops and bottoms and slicing the side open. It turned out that these foils are way stiffer than I imagined, which made the process more challenging.
 
-![]({{ '/assets/img/W3/02.jepg' | relative_url }})
+![]({{ '/assets/img/W3/02.jpg' | relative_url }})
 
-![]({{ '/assets/img/W3/03.jepg' | relative_url }})
+![]({{ '/assets/img/W3/03.jpg' | relative_url }})
 
 The foils are then trimmed to 14*10cm rectangles.
 
-![]({{ '/assets/img/W3/03-1.jepg' | relative_url }})
+![]({{ '/assets/img/W3/03-1.jpg' | relative_url }})
 
 ##### Main Body
 
-![]({{ '/assets/img/W3/04.jepg' | relative_url }})
+![]({{ '/assets/img/W3/04.jpg' | relative_url }})
 
-![]({{ '/assets/img/W3/05.jepg' | relative_url }})
+![]({{ '/assets/img/W3/05.jpg' | relative_url }})
 
 Turns out it's very difficult to hold the foils in place and operate the glue gun at the same time, so I used Scotch to help with the assembly.
 
-![]({{ '/assets/img/W3/06.jepg' | relative_url }})
+![]({{ '/assets/img/W3/06.jpg' | relative_url }})
 
-![]({{ '/assets/img/W3/07.jepg' | relative_url }})
+![]({{ '/assets/img/W3/07.jpg' | relative_url }})
 
 ##### Oops
 
 It was not until the body was glued together that I realized I forgot to cut the opening for the mouth--Great, now I have to cut aluminum floating in the air. The cutting was a bit messy, but at least nothing worse happened.
 
-![]({{ '/assets/img/W3/08.jepg' | relative_url }})
+![]({{ '/assets/img/W3/08.jpg' | relative_url }})
 
 ##### Tail and Fins
 
 The rest are relatively smooth sail, just sticking multiple triangles on.
 
-![]({{ '/assets/img/W3/09.jepg' | relative_url }})
+![]({{ '/assets/img/W3/09.jpg' | relative_url }})
 
-![]({{ '/assets/img/W3/10.jepg' | relative_url }})
+![]({{ '/assets/img/W3/10.jpg' | relative_url }})
 
-![]({{ '/assets/img/W3/11.jepg' | relative_url }})
+![]({{ '/assets/img/W3/11.jpg' | relative_url }})
 
 ##### Change of Design
 
 At this point the structure is finished, and I was going to add colors to it using these cardboards (which, are actually the exact boxes for this cans).
 
-![]({{ '/assets/img/W3/12.jepg' | relative_url }})
+![]({{ '/assets/img/W3/12.jpg' | relative_url }})
 
 But looking at the all-sliver tuna, I found its texture in the current state to be extremly sleek and simple, and adding cardboards onto it will only break the coherence. Therefore, I decided to just keep it this way.
 
 Instead, since my tuna is still lying on its side, I used the two boxes to create a simple stand:
 
-![]({{ '/assets/img/W3/13.jepg' | relative_url }})
+![]({{ '/assets/img/W3/13.jpg' | relative_url }})
 
 Although a impromptu creation, I think this stand is actually pretty cool, reminding viewers where the materials for this tuna come from.
 
-![]({{ '/assets/img/W3/14.jepg' | relative_url }})
+![]({{ '/assets/img/W3/14.jpg' | relative_url }})
 
 
 
