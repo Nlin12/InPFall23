@@ -33,9 +33,7 @@ So the goal is to represent in-game items and player's interactions with them in
 
 *[Source: Nintendo Official Website](https://www.nintendo.com/amiibo/line-up/)*
 
-Amiibos have been around fot a few generations of console, but it never saw any widespread interest and adoption. I think this is because of 2 reasons. Firstly, Nintendo did not came up with a truly novel and irreplaceable use of Amiibos. No game feels significantly worse or unplayable without Amiibo, some will argue it's even clunkier with Amiibo in some situations (like each player have
-
-05 to take turn tapping their Amiibo on the controller before controlling). Secondly, Amiibo are game-specific items. Some Amiibo get multiple compatible games (like the generic Mario, Kirby, Isabelle), but most of them can only be used in one single game (sometimes that game is not even that popular to begin with). Couple these limitations with a price tag of $15.99, it no surprise that Amiibo is now more of a die-hards' collectibles than a revolutionary game interaction system.
+Amiibos have been around fot a few generations of console, but it never saw any widespread interest and adoption. I think this is because of 2 reasons. Firstly, Nintendo did not came up with a truly novel and irreplaceable use of Amiibos. No game feels significantly worse or unplayable without Amiibo, some will argue it's even clunkier with Amiibo in some situations (like each player have to take turn tapping their Amiibo on the controller before controlling). Secondly, Amiibo are game-specific items. Some Amiibo get multiple compatible games (like the generic Mario, Kirby, Isabelle), but most of them can only be used in one single game (sometimes that game is not even that popular to begin with). Couple these limitations with a price tag of $15.99, it no surprise that Amiibo is now more of a die-hards' collectibles than a revolutionary game interaction system.
 
 ![]({{ '/assets/img/W4/05.png' | relative_url }})
 
