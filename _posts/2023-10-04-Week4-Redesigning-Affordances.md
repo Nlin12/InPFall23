@@ -19,7 +19,7 @@ Playing video games is one of my hobbies. Of the games, Pokémon probably gets t
 
 However, these problems are not exclusive to Pokémon games. Almost all modern games deal with in-game player items, therefore have a inventory management system. The form of these inventory systems are more or less the same, and have stayed this way for a long time. Most of them use grids, lists or carousels to display items, requiring the user to navigate using digital input devices on the game screen, and presents available actions once an item is in focus. This of course "works", but the problems mentioned before, namely the difficulty of navigating, searching and arranging items, and the lack of the sense of presense and the sense of possession of the items.
 
-![](https://game-design-snacks.fandom.com/wiki/File:WoWScrnShot_020712_161153-1-.jpg)
+![]({{ '/assets/img/W4/03.webp' | relative_url }})
 
 *Image by [Razerlazer](https://game-design-snacks.fandom.com/wiki/User:Razerlazer) on Fandom. [Source](https://game-design-snacks.fandom.com/wiki/Poor_Inventory_Management)*
 
