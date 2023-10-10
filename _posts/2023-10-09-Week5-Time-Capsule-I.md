@@ -98,11 +98,11 @@ Therefore, I decided to pay tribute to their contribution by using a similar for
 
 I made 3 example blogs that introduce some sets of my railway-related items. I emphasized the social changes and developments that made the railway and the city the way it is now, hoping to promote thinking on the co-development relationship between people and transportation.
 
-[Blog 1: KiHa 85](https://nlin12.github.io/InPFall23/2023-10-09-Week5-Blog1)
+[Blog 1: KiHa 85](https://nlin12.github.io/InPFall23/2023-10-10-Week5-Blog1/)
 
-[Blog2: Takayama](https://nlin12.github.io/InPFall23/2023-10-09-Week5-Blog2)
+[Blog2: Takayama](https://nlin12.github.io/InPFall23/2023-10-10-Week5-Blog2)
 
-[Blog 3: Kurobe](https://nlin12.github.io/InPFall23/2023-10-09-Week5-Blog3)
+[Blog 3: Kurobe](https://nlin12.github.io/InPFall23/2023-10-10-Week5-Blog3)
 
 ### Conclusion & Reflects
 
