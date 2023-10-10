@@ -86,7 +86,9 @@ This idea stems from my observations of such forms of documentation in the commu
 
 *[クマ旅ｃｈ全駅ノート制覇企画](http://meiressha.jpn.org/note/note.html), they aim to leave a note on every station with a station note.*
 
-![Hassha Melody]({{ '/assets/img/W5/10.png' | relative_url }})
+![Hassha Melody1]({{ '/assets/img/W5/10.png' | relative_url }})
+
+![Hassha Melody2]({{ '/assets/img/W5/11.png' | relative_url }})
 
 *[どこでも発車メロディー](https://hassyaberu.com/), an archive of departure melodies used at different stations.*
 
