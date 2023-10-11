@@ -25,7 +25,7 @@ My time there was not just riding trains and enjoying the scenery. I experienced
 
 ![Social changes]({{ '/assets/img/W5/03.jpg' | relative_url }})
 
-*The Kesennuma BRT was rebuilt on previous tracks destroyed by the 2011 Tohoku Earthquake. [Source: Wikipedia](https://ja.wikipedia.org/wiki/%E6%B0%97%E4%BB%99%E6%B2%BC%E7%B7%9A%E3%83%BB%E5%A4%A7%E8%88%B9%E6%B8%A1%E7%B7%9ABRT#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Sakari_Station_Ofunato_Line_BRT.jpg)*
+*The Kesennuma BRT & Ofunato BRT were rebuilt on previous tracks destroyed by the tsunami following the 2011 Tohoku Earthquake. [Source: Wikipedia](https://ja.wikipedia.org/wiki/%E6%B0%97%E4%BB%99%E6%B2%BC%E7%B7%9A%E3%83%BB%E5%A4%A7%E8%88%B9%E6%B8%A1%E7%B7%9ABRT#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Sakari_Station_Ofunato_Line_BRT.jpg)*
 
 Therefore, I want to build my project around the objects that are connected to the railway, but focus not so much on traveling or scenery, instead **bring attention to the change and development of transportation systems**, and in a bigger sense, the **change and development of human settlements and the cultures**. I'd like my time capsule to promote thinking about **our relationship with transportation**, and how we should evolve and adapt them to the social changes of the future.
 
