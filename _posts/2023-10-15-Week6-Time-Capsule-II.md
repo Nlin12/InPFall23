@@ -55,7 +55,7 @@ There's a term called "Bathtub Curve" in reliability engineering. The curve depi
 
 ![Bathtub]({{ '/assets/img/W6/04.svg' | relative_url }})
 
-*The Bathtub Curve*
+*The Bathtub Curve [Source: Wikipedia (CC BY-SA 4.0)](https://en.wikipedia.org/wiki/Bathtub_curve#/media/File:Bathtub_curve.svg)*
 
 Therefore, I decided that my time capsule should not be buried at all. Instead, it can simply be placed in an unassuming place in a public place. For most people, they will not give it a second look. And for those who care to contribute to the time capsule, it will also be easy for them to do that. When the place it resides is being demolished or fundamentally changed, the time capsule will have to be dealt with, and that's when I consider it to be "unearthed".
 
@@ -90,6 +90,8 @@ Then, I added a notebook and a pen as a more traditional method of documentation
 I also made some (bad) sketches imagining how they would look like when put in the actual environment.
 
 ![Drawing]({{ '/assets/img/W6/12.png' | relative_url }})
+
+*Original picture source: [MaedaAkihiko](https://commons.wikimedia.org/wiki/User:MaedaAkihiko) on [Wikipedia (CC BY-SA 4.0)](https://ja.wikipedia.org/wiki/%E5%A7%A8%E6%8D%A8%E9%A7%85#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Obasute-STA_Inside.jpg)*
 
 ### Conclusion & Reflects
 
