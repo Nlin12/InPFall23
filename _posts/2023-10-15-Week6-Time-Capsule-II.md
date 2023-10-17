@@ -85,7 +85,11 @@ Then, I added a notebook and a pen as a more traditional method of documentation
 
 ![Note3]({{ '/assets/img/W6/10.jpeg' | relative_url }})
 
+*Examples of documenting on notebook and/or attaching RFID tags to items*
+
 ![Note4]({{ '/assets/img/W6/11.jpeg' | relative_url }})
+
+*A mockup of the contents that reading the RFID tag would show up*
 
 I also made some (bad) sketches imagining how they would look like when put in the actual environment.
 
