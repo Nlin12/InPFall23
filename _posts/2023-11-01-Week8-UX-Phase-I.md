@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 8-UX Design Research: Phase I
+title: Week 8-UX Design Research-Phase I
 subtitle: 
 tags: []
 ---
