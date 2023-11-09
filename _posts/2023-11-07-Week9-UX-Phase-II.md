@@ -29,9 +29,9 @@ Starting with the new problem scope and target, I started a new mess map to find
 
 ![Map-start]({{ '/assets/img/W9/01.jpg' | relative_url }})
 
-In terms of pedestrians' red light crossing behavior, there are plenty of studies using observational methods and mathematic models to construct the factors that are related to or can predict the action of running the red light. Apart from system factors like cycle length, waiting time (Raoniar & Mautya, 2022) and number of lines (Zhu et al., 2020), personal factors like age, gender (Zhu et al., 2020), sensation-seeking tendency (Rosenbloom & Tova, 2006), there's also significant influence of various **social factors**. This includes both situational social factors like how many people are waiting at the red light (Rosenbloom, 2008) (Raoniar & Mautya, 2022) and the presence of other violators and companions (Zhu et al., 2020), there's also more static factors that stemmed from cultural differences between societies. For example, Pelé et al. (2017) discovered that compared to French people, Japanese are not only more likely to follow the red light, but also they are paying more attention to what others are doing and adjust accordingly. Using computer vision and pose estimation, it is even possible to predict the intention to cross at red light based on their behavior at the intersection (Zhang et al., 2021).
+In terms of pedestrians' red light crossing behavior, there are plenty of studies using observational methods and mathematic models to construct the factors that are related to or can predict the action of running the red light. Apart from system factors like cycle length, waiting time (Raoniar & Mautya, 2022) and number of lines (Zhu et al., 2021), personal factors like age, gender (Zhu et al., 2020), sensation-seeking tendency (Rosenbloom & Tova, 2006), there's also significant influence of various **social factors**. This includes both situational social factors like how many people are waiting at the red light (Rosenbloom, 2008) (Raoniar & Mautya, 2022) and the presence of other violators and companions (Zhu et al., 2021), there's also more static factors that stemmed from cultural differences between societies. For example, Pelé et al. (2017) discovered that compared to French people, Japanese are not only more likely to follow the red light, but also they are paying more attention to what others are doing and adjust accordingly. Using computer vision and pose estimation, it is even possible to predict the intention to cross at red light based on their behavior at the intersection (Zhang et al., 2021).
 
-In terms of the physical experience, I did some further research on the often-called "beg buttons" found on a portion of NYC road crossings. Originally intended to make the vehicle traffic flow more smoothly without being interrupted by unnecessary red lights when there are no pedestrians, it has been mostly phased out in NYC, due to the high pedestrian density in the city and the switch to a computer-based traffic cycle control system (PIX11, 2021) (Spectrum News, 2018), and are currently being converted into audio feedback systems for the visual impaired people (NYC DOT, n.d.).
+In terms of the physical experience, I did some further research on the often-called "beg buttons" found on a portion of NYC road crossings. Originally intended to make the vehicle traffic flow more smoothly without being interrupted by unnecessary red lights when there are no pedestrians, it has been mostly phased out in NYC, due to the high pedestrian density in the city and the switch to a computer-based traffic cycle control system (PIX11, 2023) (Spectrum News, 2018), and are currently being converted into audio feedback systems for the visual impaired people (NYC DOT, n.d.).
 
 ![Beg button]({{ '/assets/img/W9/02.jpg' | relative_url }})
 
@@ -59,3 +59,26 @@ In terms of research methods, I think a fly-on-the-wall observation is probably 
 
 ### References
 
+Campbell, B. N., Smith, J. D., & Najm, W. (2004). *Analysis of fatal crashes due to signal and stop sign violations* (No. FHWA-JPO-05-050). United States. National Highway Traffic Safety Administration.
+
+New York City Department of Transportation (NYC DOT). (n.d.). Accessible Pedestrian Signals. https://www.nyc.gov/html/dot/html/infrastructure/accessiblepedsignals.shtml
+
+Pelé, M., Bellut, C., Debergue, E.,  Gauvin, C., Jeanneret, A., Leclere, T., ... & Sueur, C. (2017).  Cultural influence of social information use in pedestrian road-crossing behaviours. *Royal Society open science*, *4*(2), 160739.
+
+Pix11. (2023). Are you wasting your time pressing crosswalk buttons in New York City? https://pix11.com/news/local-news/are-you-wasting-your-time-pressing-crosswalk-buttons/
+
+Raoniar, R., & Maurya, A. K.  (2022). Pedestrian red-light violation at signalised intersection  crosswalks: Influence of social and non-social factors. *Safety science*, *147*, 105583.
+
+Retting, R. A., Weinstein, H. B.,  & Solomon, M. G. (2003). Analysis of motor-vehicle crashes at stop  signs in four US cities. *Journal of Safety Research*, *34*(5), 485-489.
+
+Rosenbloom, T. (2009). Crossing at a red light: Behaviour of individuals and groups. *Transportation research part F: traffic psychology and behaviour*, *12*(5), 389-394.
+
+Rosenbloom, T. (2006). Sensation seeking and pedestrian crossing compliance. *Social Behavior and Personality: an international journal*, *34*(2), 113-122.
+
+Spectrum News. (2018). A closer look at 'Nothin Buttons' in New York City. https://ny1.com/nyc/all-boroughs/news/2018/07/03/a-closer-look-at-nothin-buttons-in-new-york-city-buttons-that-do-not-do-anything
+
+Trinkaus, J. (1997). Stop sign compliance: A final look. *Perceptual and motor skills*, *85*(1), 217-218.
+
+Zhang, S., Abdel-Aty, M., Wu, Y.,  & Zheng, O. (2021). Pedestrian crossing intention prediction at  red-light using pose estimation. *IEEE transactions on intelligent transportation systems*, *23*(3), 2331-2339.
+
+Zhu, D., Sze, N. N., & Bai, L.  (2021). Roles of personal and environmental factors in the red light  running propensity of pedestrian: Case study at the urban crosswalks. *Transportation research part F: traffic psychology and behaviour*, *76*, 47-58.
