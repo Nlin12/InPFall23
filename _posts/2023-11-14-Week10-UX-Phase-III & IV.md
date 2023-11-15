@@ -51,15 +51,15 @@ I picked 4 places that represent the 4 types respectively and carried out the ob
 
 The first intersection is at Liberty St & William St in Downtown Manhattan. This is a classic stop-sign-controlled minor road intersection. Although surrounded by tourist attractions, this intersection mainly sees foot traffic from nearby business and residential properties.
 
-Observation time: 14:08-14:23
+* Observation time: 14:08-14:23
 
-Vehicle traffic: Moderate
+* Vehicle traffic: Moderate
 
-Pedestrian traffic: Moderate
+* Pedestrian traffic: Moderate
 
-Road environment: One-way streets, 2 side parking 
+* Road environment: One-way streets, 2 side parking 
 
-Speed limit: Normal
+* Speed limit: Normal
 
 ![LibertyWilliam]({{ '/assets/img/W10/Liberty/01.jpg' | relative_url }})
 
@@ -87,15 +87,15 @@ Other points observed:
 
 The second location is also in Downtown Manhattan, just outside the New York Stock Exchange. Originally I planned to observe at another intersection, but unfortunately it's closed due to roadwork. Because it's really hard to find a stop-sign-controlled crossing that also has high pedestrian traffic, I had to settle with this T intersection. 
 
-Observation time: 14:26-14:41
+* Observation time: 14:26-14:41
 
-Vehicle traffic: Low
+* Vehicle traffic: Low
 
-Pedestrian traffic: Moderate
+* Pedestrian traffic: Moderate
 
-Road environment: One-way street, 1 side parking/one-way street with construction
+* Road environment: One-way street, 1 side parking/one-way street with construction
 
-Speed limit: Normal
+* Speed limit: Normal
 
 ![NassauPine]({{ '/assets/img/W10/Nassau/01.jpg' | relative_url }})
 
@@ -127,15 +127,15 @@ Other observations worth noting:
 
 The third location is right at the heart of Times Square, it's hard to find any other crossings thatg has this level of foot traffic and proportion of tourists.
 
-Observation time: 15:24-15:39
+* Observation time: 15:24-15:39
 
-Vehicle traffic: High
+* Vehicle traffic: High
 
-Pedestrian traffic: Extremely high
+* Pedestrian traffic: Extremely high
 
-Road environment: One-way street, 2 sides parking/one-way multiple line major road
+* Road environment: One-way street, 2 sides parking/one-way multiple line major road
 
-Speed limit: Normal
+* Speed limit: Normal
 
 ![W457Av]({{ '/assets/img/W10/W45/01.jpg' | relative_url }})
 
@@ -170,15 +170,15 @@ Other observations:
 
 The final location is in the mostly residential Upper West Side, and has the typical grid layout seen in midtown and uptown Manhattan.
 
-Observation time: 15:55-16:10
+* Observation time: 15:55-16:10
 
-Vehicle traffic: Medium-high
+* Vehicle traffic: Medium-high
 
-Pedestrian traffic: Medium-high
+* Pedestrian traffic: Medium-high
 
-Road environment: One-way street, 2 sides parking/one-way multiple line major road, with parking on one side, bike lane on the other side
+* Road environment: One-way street, 2 sides parking/one-way multiple line major road, with parking on one side, bike lane on the other side
 
-Speed limit: Normal
+* Speed limit: Normal
 
 ![W749Av]({{ '/assets/img/W10/W74/01.jpg' | relative_url }})
 
