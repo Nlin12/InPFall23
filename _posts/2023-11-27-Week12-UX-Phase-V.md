@@ -7,7 +7,7 @@ tags: []
 
 ### Introduction
 
-After conducting research on the users using fly-on0the-wall observation and contextual inquiry, and running a preliminary analysis on the findings, I developed some initial ideas for the prototype of my project. For Phase V, I will design a higher fidelity prototype, and develop narratives for the design.
+After conducting research on the users using fly-on-the-wall observation and contextual inquiry, and running a preliminary analysis on the findings, I developed some initial ideas for the prototype of my project. For Phase V, I will design a higher fidelity prototype, and develop narratives for the design.
 
 ### Prototype ideas
 
