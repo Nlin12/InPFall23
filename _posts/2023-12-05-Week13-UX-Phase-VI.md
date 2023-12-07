@@ -65,9 +65,13 @@ What I think stood out during my process over the weeks: Firstly, it's important
 
 What I think can be improved: I think I could definitely do more research on my target crowd if time and resource permits. I do find observation and inquiry can be a powerful workflow to gather previously unnoticed findings and then make confirmation and seek explanations. This helps me quickly understand how things currently work and find problems. What's more, I'd also like to conduct some preliminary user tests on my prototype. However, I can imagine this can be challenging, since the test would have to be carried out in a real-world setting. 
 
+### Conclusion
+
+Now that I have summarized the general framework of my project's progress, I will work on completing the narrative, and try to work on telling an engaging story in the presentation in the coming week.
+
 ### References
 
-Matsumura, N., Fruchter, R. & Leifer, L. Shikakeology: designing triggers for behavior change.                    *AI & Soc* **30**, 419–429 (2015). https://doi.org/10.1007/s00146-014-0556-5
+Matsumura, N., Fruchter, R. & Leifer, L. Shikakeology: designing triggers for behavior change. AI & Soc* **30**, 419–429 (2015). https://doi.org/10.1007/s00146-014-0556-5
 
 Maho Kozai, Tomoko Yagishi. Making Shikake to promote the separating and sorting of garbage in Otemae High School. (2019). https://www.shikakeology.org/pdf/TBC2019005.pdf
 
